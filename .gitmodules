@@ -1,0 +1,12 @@
+[submodule "meme_emoji"]
+	path = meme_emoji
+	url = https://github.com/anyliew/meme_emoji.git
+[submodule "meme-generator-contrib"]
+	path = meme-generator-contrib
+	url = https://github.com/MemeCrafters/meme-generator-contrib.git
+[submodule "crazy_emoji"]
+	path = crazy_emoji
+	url = https://github.com/anyliew/crazy_emoji.git
+[submodule "meme-demo"]
+	path = meme-demo
+	url = https://github.com/USYDShawnTan/meme-demo.git
